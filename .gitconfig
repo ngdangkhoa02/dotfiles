@@ -1,0 +1,6 @@
+[user]
+	name = ngdangkhoa02
+	email = ngdangkhoa02@gmail.com
+[alias]
+	pushu = !git push -u origin HEAD
+	pushf = !git push --force-with-lease
